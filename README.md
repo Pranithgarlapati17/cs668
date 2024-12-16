@@ -1,4 +1,4 @@
-# CS668 Optimizing Bank Marketing Strategies
+# CS668 Optimizing Bank Marketing Strategies through Predictive Analytics and Customer Segmentation
 Venkata Ram Pranith Garlapati
 
 # Project Overview
