@@ -35,7 +35,7 @@ The primary goal is to understand the key features influencing customer conversi
 
 The dataset used in this project is the "Bank Marketing" dataset from the UCI Machine Learning Repository. It includes client demographic information, historical campaign outcomes, and other relevant features.
 
-https://github.com/Pranithgarlapati17/cs668/blob/edf93c42169bc666d07d797da54fafde165b9c0e/Banking%20data.xlsx
+https://github.com/Pranithgarlapati17/cs668/raw/edf93c42169bc666d07d797da54fafde165b9c0e/Banking%20data.xlsx
 
 # Key Features Include:
 
