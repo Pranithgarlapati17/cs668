@@ -114,5 +114,6 @@ git clone https://github.com/yourusername/bank-marketing-analysis.git
 Contributions are welcome! Please create an issue or fork this repository to make improvements.
 
 # Poster
+https://github.com/Pranithgarlapati17/cs668/blob/aac2572769960aa3bee1825a0f18f527cc8abc53/Poster%20.pdf
 ![image](https://github.com/user-attachments/assets/baed5670-a14a-4319-a192-ef58139178a9)
 
