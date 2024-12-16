@@ -1,9 +1,11 @@
 # CS668 Optimizing Bank Marketing Strategies through Predictive Analytics and Customer Segmentation
 Venkata Ram Pranith Garlapati
 
-# Project Overview
+● This work was realized as part of the capstone project of the MS in Data Science at Pace University.
 
-This project aims to optimize bank marketing strategies through predictive analytics and customer segmentation. Using advanced machine learning models such as Random Forest, XGBoost, and Gradient Boosting, we predict customer subscription to term deposits during bank telemarketing campaigns. Additionally, the project focuses on effective customer segmentation to improve campaign targeting and reduce marketing costs.
+# Abstract 
+
+The project deals with optimizing bank marketing strategies from predictive analytics and customer segmentation. Employing machine learning models, this study identifies crucial factors affecting customers' willingness to subscribe to term deposits and increases targeting efficiency in telemarketing campaigns. Ensemble models, including XGBoost and Random Forest, were applied to predict customer behavior with good performance. Model outputs were interpreted by means of a SHAP analysis, with insightful recommendations to marketing managers. Results show that call duration, contact type, and previous campaign outcomes have substantial impacts on conversion rates. The study illustrates how advanced predictive models can improve marketing efficiencies, shave costs, and help in increasing customer conversions.
 
 # Table of Contents
 
